@@ -1,0 +1,14 @@
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.exe
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.deps.json
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.runtimeconfig.json
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.runtimeconfig.dev.json
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.dll
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\bin\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.pdb
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.csproj.AssemblyReference.cache
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.AssemblyInfoInputs.cache
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.AssemblyInfo.cs
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.csproj.CoreCompileInputs.cache
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.dll
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.pdb
+C:\Users\fabiana.santos\source\repos\Reserva_DesafioDeProjeto\Reserva_DesafioDeProjeto\obj\Debug\netcoreapp3.1\Reserva_DesafioDeProjeto.genruntimeconfig.cache
